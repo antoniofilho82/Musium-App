@@ -70,8 +70,3 @@ npx expo start
 - **Dyuhan Lucas de Oliveira Ferreira - 01805592** - `HomeScreen.js`
 - **Marcus Vinicius Ferreira Lustosa - 01796456** - `FavoritesScreen.js`
 - **Rafael de Sousa Oliveira - 01804612** - `SearchScreen.js`
-
-## Observações
-
-- O repositório deve ser público no GitHub para envio ao professor.
-- Envie o link do repositório no Teams conforme instruções.
