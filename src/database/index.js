@@ -3,7 +3,9 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 // Módulo de banco de dados local usando AsyncStorage para salvar usuários
 // Todas as operações são assíncronas e baseadas em armazenamento em memória do dispositivo
 
-// Inicializar banco (AsyncStorage não precisa inicialização específica)// Está sempre pronto para uso quando o app iniciaexport const initDatabase = async () => {
+// Inicializar banco (AsyncStorage não precisa inicialização específica)
+// Está sempre pronto para uso quando o app inicia
+export const initDatabase = async () => {
   // AsyncStorage está sempre pronto
   return Promise.resolve();
 };
