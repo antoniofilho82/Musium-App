@@ -43,17 +43,17 @@ npm install
 3. Inicie o aplicativo com Expo:
 
 ```bash
-npm start
+npx expo start
 ```
 
 4. Abra no emulador ou no dispositivo usando o Expo Go.
 
 ## Comandos úteis
 
-- `npm start` - inicia o Metro Bundler do Expo.
-- `npm run android` - abre o app no Android (com emulador ou dispositivo conectado).
-- `npm run ios` - abre o app no iOS (macOS / Xcode necessário).
-- `npm run web` - roda o app em navegador.
+- `npx expo start` - inicia o Metro Bundler do Expo.
+- `npx expo start --android` - abre o app no Android (com emulador ou dispositivo conectado).
+- `npx expo start --ios` - abre o app no iOS (macOS / Xcode necessário).
+- `npx expo start --web` - roda o app em navegador.
 
 ## Uso
 
